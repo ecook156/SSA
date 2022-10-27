@@ -29,10 +29,10 @@ Install all libraries required
 -	Enter your name into the client terminal 
 -	Enter the name of the room that you want to turn the light on or off
 -	Choose from:
-o	‘kitchen’
-o	‘bath’
-o	‘bedroom’
-o	‘hall’
+‘kitchen’
+‘bath’
+‘bedroom’
+‘hall’
 -	Enter ‘on’ or ‘off’ 
 -	Message will display ‘Your inputs are successfully sent to the server’ showing the action as been completed
 -	Check the server terminal for information of each room and whether the light is ‘on’ or ‘off’
